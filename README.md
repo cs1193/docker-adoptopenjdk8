@@ -1,1 +1,1 @@
-# docker-adoptopenjdk8
+# docker-adoptopenjdk8-ubuntu
